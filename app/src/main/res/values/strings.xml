@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Synchronoss</string>
+    <string name="city">City</string>
+    <string name="no_data">No data</string>
+    <string name="divider">Divider</string>
+    <string name="get_weather_updates">Get Weather Updates</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+</resources>
